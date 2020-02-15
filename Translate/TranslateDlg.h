@@ -44,7 +44,7 @@ public:
 	//const static int ROW = 2;
 	//CString arrWords[ROW][COL] = { { _T("Български") , _T("Куче"), _T("Котка"), _T("Жираф"),_T("Лъв"),_T("Крава"),_T("Мравка"),_T("Слон"),_T("Косатка"),_T("Хамстер"), _T("Охльов")},
 	//	{ _T("English"), _T("dog"), _T("cat"), _T("giraffe"), _T("lion"), _T("cow"), _T("ant"), _T("elephant"), _T("killer whale"), _T("hamster"), _T("snail") } };
-
+	//
 	int m_index;
 	int m_incorrect_count;
 	int m_count_all;
